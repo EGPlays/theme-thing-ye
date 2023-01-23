@@ -45,7 +45,7 @@
 }
 
 .titlebar {
-    background-color: var(--background-primary);
+    background-color: #fff;
 }
 .titlebar #window-controls-container {
     background-color: var(--background-primary);
